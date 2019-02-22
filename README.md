@@ -1,6 +1,7 @@
 # collapsing_navigation_drawer
 
-A new Flutter project.
+![preview](https://res.cloudinary.com/hostelix/image/upload/c_thumb,w_200,g_face/v1550864917/Screenshot_1550864498_jcxgwc.png)
+
 
 ## Getting Started
 
